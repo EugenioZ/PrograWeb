@@ -1,37 +1,39 @@
-body{
-    
-    background-color: black;
+body {
+  background-color: black;
 }
 
-.titulo{
-
-    color: red;
-    font-size: 100px;
-    background-color: #ffff;
-    
-
-}   
-
-.borde{
-
-    border: 3px solid red;
+.titulo {
+  color: rgb(255, 0, 0);
+  font-size: 100px;
+  background-color: #ffff;
 }
 
-#logo{
-
-    position: fixed; 
-    bottom: 10px; 
-    right: 10px;
-    im
+.subtitulo {
+  color: rgb(253, 253, 253);
+  font-size: 50px;
 }
 
-.amarillo{
-
-    color: #ff0;
-
+.texto {
+  color: rgb(253, 253, 253);
+  font-size: 25px;
 }
 
-.underline{
+.borde {
+  border: 3px solid red;
+}
 
-    
+#logo {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+}
+
+#FotoDesc {
+    position: relative;
+    left: 1100px;
+    bottom: 250px;
+}
+
+.amarillo {
+  color: #ff0;
 }
