@@ -115,3 +115,7 @@ body {
     grid-row; 2 / span 2;
     }
 
+.numeros{
+  color: red;
+  font-family: 'Times New Roman', Times, serif;
+}
